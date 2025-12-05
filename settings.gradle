@@ -1,0 +1,11 @@
+plugins {
+    id 'org.gradle.toolchains.foojay-resolver-convention' version '0.8.0'
+}
+
+rootProject.name = "radius-app"
+include ':app'
+
+// Configure Java toolchain
+gradle.beforeProject { project ->
+    project.ext.javaVersion = JavaVersion.VERSION_21
+}
