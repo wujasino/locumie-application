@@ -1,4 +1,4 @@
-# 🏠 Locumie – Innowacyjna Platforma Zakwaterowania
+# 🏠 Locumie – Innowacyjna Aplikacja Geolokalizacyjna
 
 Locumie to nowoczesna aplikacja mobilna, ułatwiający nawiązywanie kontaktów między osobami poszukującymi zakwaterowania a wynajmującymi. Projekt stawia na szybkość działania oraz precyzyjną lokalizację ofert dzięki interaktywnej mapie.
 
@@ -9,11 +9,11 @@ Locumie to nowoczesna aplikacja mobilna, ułatwiający nawiązywanie kontaktów 
 * **Bezpieczeństwo:** System wykorzystuje autoryzację opartą na tokenach **JWT**[cite: 6, 17].
 
 ## 🛠 Stack Techniczny
-* **Frontend:** React.js [cite: 4, 26]
+* **Frontend:** React.js [ 4, 26]
 * **Mobile:** Flutter & Dart
-* **Backend:** Node.js, Python [cite: 4, 27]
-* **Baza danych:** PostgreSQL[cite: 6, 27], Firebase (Realtime Database / Firestore)
-* **Inne:** OpenAI API, REST API [cite: 5, 19, 27]
+* **Backend:** Node.js, Python [4, 27]
+* **Baza danych:** PostgreSQL[ 6, 27], Firebase (Realtime Database / Firestore)
+* **Inne:** OpenAI API, REST API [ 5, 19, 27]
 
 ## 🌟 Funkcjonalności
 * **Interaktywna Mapa:** Lokalizowanie ofert poprzez geolokalizację (customowa implementacja bez Google Maps).
