@@ -3,17 +3,17 @@
 Locumie to nowoczesna aplikacja mobilna, ułatwiający nawiązywanie kontaktów między osobami poszukującymi zakwaterowania a wynajmującymi. Projekt stawia na szybkość działania oraz precyzyjną lokalizację ofert dzięki interaktywnej mapie.
 
 ## 🚀 Kluczowe Osiągnięcia Techniczne
-* [cite_start]**Optymalizacja Backendowa:** Zoptymalizowałem zapytania PostgreSQL, co skróciło czas odpowiedzi bazy danych o **30%**.
-* [cite_start]**Jakość i Stabilność:** Całość logiki biznesowej jest objęta testami, utrzymując poziom **80% test coverage**.
-* [cite_start]**Integracja AI:** Wdrożyłem moduł automatycznego generowania raportów przy użyciu **OpenAI API**[cite: 19].
-* [cite_start]**Bezpieczeństwo:** System wykorzystuje autoryzację opartą na tokenach **JWT**[cite: 6, 17].
+* **Optymalizacja Backendowa:** Zoptymalizowałem zapytania PostgreSQL, co skróciło czas odpowiedzi bazy danych o **30%**.
+* **Jakość i Stabilność:** Całość logiki biznesowej jest objęta testami, utrzymując poziom **80% test coverage**.
+* **Integracja AI:** Wdrożyłem moduł automatycznego generowania raportów przy użyciu **OpenAI API**[cite: 19].
+* **Bezpieczeństwo:** System wykorzystuje autoryzację opartą na tokenach **JWT**[cite: 6, 17].
 
 ## 🛠 Stack Techniczny
-* [cite_start]**Frontend:** React.js [cite: 4, 26]
+* **Frontend:** React.js [cite: 4, 26]
 * **Mobile:** Flutter & Dart
-* [cite_start]**Backend:** Node.js, Python [cite: 4, 27]
-* [cite_start]**Baza danych:** PostgreSQL[cite: 6, 27], Firebase (Realtime Database / Firestore)
-* [cite_start]**Inne:** OpenAI API, REST API [cite: 5, 19, 27]
+* **Backend:** Node.js, Python [cite: 4, 27]
+* **Baza danych:** PostgreSQL[cite: 6, 27], Firebase (Realtime Database / Firestore)
+* **Inne:** OpenAI API, REST API [cite: 5, 19, 27]
 
 ## 🌟 Funkcjonalności
 * **Interaktywna Mapa:** Lokalizowanie ofert poprzez geolokalizację (customowa implementacja bez Google Maps).
