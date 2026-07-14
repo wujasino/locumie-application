@@ -1,6 +1,6 @@
 # 🏠 Locumie – Innowacyjna Aplikacja Geolokalizacyjna
 
-Locumie to nowoczesna aplikacja mobilna, ułatwiający nawiązywanie kontaktów między osobami poszukującymi zakwaterowania a wynajmującymi. Projekt stawia na szybkość działania oraz precyzyjną lokalizację ofert dzięki interaktywnej mapie.
+Locumie to nowoczesna aplikacja mobilna, ułatwiający nawiązywanie kontaktów między osobami poszukującymi znajomości dzięki mapie. Projekt stawia na szybkość działania oraz precyzyjną lokalizację ofert dzięki interaktywnej mapie.
 
 ## 🚀 Kluczowe Osiągnięcia Techniczne
 * **Optymalizacja Backendowa:** Zoptymalizowałem zapytania PostgreSQL, co skróciło czas odpowiedzi bazy danych o **30%**.
