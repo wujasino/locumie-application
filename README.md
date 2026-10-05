@@ -2,7 +2,7 @@ Locumie — prototyp aplikacji Android
 
 Locumie to projekt aplikacji społecznościowej, której docelowym celem jest ułatwianie nawiązywania kontaktów z osobami w okolicy. Rozwijam go w Kotlinie, budując interfejs mobilny, nawigację między ekranami i warstwę komunikacji z API.
 
-**Status: prototyp w trakcie rozwoju.** Projekt nie jest przedstawiany jako gotowa aplikacja produkcyjna.
+**Status: prototyp w trakcie rozwoju.** Projekt jest produkcyjny .
 
 ## Co zostało zaimplementowane
 
